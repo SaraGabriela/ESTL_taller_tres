@@ -1,0 +1,8 @@
+[
+  {"url":"casa/patitas.wav","type":"audio","bank":"patitas","n":0},
+  {"url":"cocina/pasta.wav","type":"audio","bank":"pasta","n":0},
+  {"url":"parque/aspersor_final.wav","type":"audio","bank":"aspersor","n":0},
+  {"url":"parque/aveee.wav","type":"audio","bank":"ave","n":0},
+  {"url":"parque/pisadas.wav","type":"audio","bank":"pisadas","n":0},
+  {"url":"parque/wuuu.wav","type":"audio","bank":"wuuu","n":0}
+]
